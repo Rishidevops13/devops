@@ -1,0 +1,7 @@
+Linux
+git 
+jenkins
+aws
+terraform
+docker
+kubernate
